@@ -15,4 +15,4 @@ in this project we are going to analyze all the stocks in NSE and categorize the
 `Streamlit run ui.py`
 
 ### Note:- 
-#### The Sript Takes Time to PRoduce Final Result since it has to Analyse all the stocks listed in NSE
+#### The Sript takes time to produce Final Result since it has to Analyse all the stocks listed in NSE
